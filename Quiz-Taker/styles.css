@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+}
+h1, h2 {
+    text-align: center;
+}
+#quiz {
+    margin-top: 30px;
+}
+.question {
+    margin-bottom: 20px;
+}
